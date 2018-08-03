@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Kalkulator Prasetya</string>
+    <string name="button_1">Pencet saya dong.....</string>
+    <string name="klik_1">T E R P E N C E T</string>
+
+    <string-array name="list_kota">
+        <item>==========Pilih Kota Anda Om===========</item>
+        <item>Malang</item>
+        <item>Semarang</item>
+        <item>Blitar</item>
+        <item>Tangerang</item>
+        <item>Surabaya</item>
+        <item>Jakarta</item>
+        <item>Tegal</item>
+    </string-array>
+
+</resources>
